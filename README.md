@@ -1,4 +1,5 @@
-<div align="center">
+<img width="748" height="884" alt="image" src="https://github.com/user-attachments/assets/d505f122-9e4d-4773-bdcf-78c923d0eefd" />
+
 
 # ⚡ **polsoft.ITS™ NET‑BOOST CONTROL PANEL v1.0**  
 ### Ultra‑lekki panel optymalizacji sieci dla Windows
